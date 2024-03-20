@@ -1,0 +1,22 @@
+{
+    //prettier
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "prettier.configPath": "./.prettierrc",
+    //tailwindStyledComponents
+    "tailwindCSS.includeLanguages": {
+      "typescript": "jasvascript",
+      "typescriptreact": "javascript"
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "tailwindCSS.experimental.classRegex": [
+        "tw`([^`]*)",
+        "tw\\.[^`]+`([^`]*)`",
+        "tw\\(.*?\\).*?`([^`]*)"
+    ]
+  }
+  

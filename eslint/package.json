@@ -1,0 +1,15 @@
+{
+    "devDependencies": {
+      "@typescript-eslint/eslint-plugin": "",
+      "@typescript-eslint/parser": "",
+      "autoprefixer": "",
+      "eslint": "",
+      "eslint-config-next": "",
+      "eslint-config-prettier": "",
+      "eslint-plugin-prettier": "",
+      "eslint-plugin-react": "",
+      "eslint-plugin-react-hooks": "",
+      "prettier": ""
+    }
+  }
+  
